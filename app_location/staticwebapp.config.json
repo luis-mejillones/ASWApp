@@ -1,0 +1,4 @@
+{
+    "route": "/pages/index.html",
+    "allowedRoles": ["authenticated"]
+}
