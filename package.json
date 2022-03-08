@@ -1,5 +1,0 @@
-{
-  "dependencies": {
-    "@azure/keyvault-keys": "^4.3.0"
-  }
-}
